@@ -1,0 +1,5 @@
+Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address,Month,Sales,City
+1,USB-C Cable,2,11.95,2019-04-01 08:00:00,"123 4th St, Boston, MA 02215",4,23.9,Boston
+2,iPhone,1,700.0,2019-04-01 09:30:00,"234 5th St, New York City, NY 10001",4,700.0,New York City
+3,Wired Headphones,1,30.0,2019-04-02 10:00:00,"345 6th St, Los Angeles, CA 90001",4,30.0,Los Angeles
+4,Macbook Pro,1,1500.0,2019-04-02 11:00:00,"456 7th St, Seattle, WA 98101",4,1500.0,Seattle
